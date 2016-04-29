@@ -1,4 +1,4 @@
-# Less Plugin Semantic Theme
+# Less Plugin Semantic Theme [![Build Status](https://travis-ci.org/chrisinajar/less-plugin-semantic-theme.svg?branch=master)](https://travis-ci.org/chrisinajar/less-plugin-semantic-theme) [![Dependency Status](https://david-dm.org/chrisinajar/less-plugin-semantic-theme.svg)](https://david-dm.org/chrisinajar/less-plugin-semantic-theme) [![devDependency Status](https://david-dm.org/chrisinajar/less-plugin-semantic-theme/dev-status.svg)](https://david-dm.org/chrisinajar/less-plugin-semantic-theme#info=devDependencies)
 #### Change the directory semantic ui looks for your theme.
 This is intended to be used in combination with with [less-plugin-npm-import](https://www.npmjs.com/package/less-plugin-npm-import) and [semantic-ui-less](https://www.npmjs.com/package/semantic-ui-less) as a replacement for the broken [less-plugin-semantic-ui](https://www.npmjs.com/package/less-plugin-semantic-ui).
 
