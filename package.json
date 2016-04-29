@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/chrisinajar/less-plugin-semantic-theme#readme",
   "devDependencies": {
+    "semistandard": "^7.0.5",
     "tap-spec": "^4.1.1",
     "tape": "^4.5.1"
   }
