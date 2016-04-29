@@ -1,0 +1,27 @@
+{
+  "name": "less-plugin-semantic-theme",
+  "version": "0.0.0",
+  "description": "Change the directory semantic ui looks for your theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard && tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisinajar/less-plugin-semantic-theme.git"
+  },
+  "keywords": [
+    "less",
+    "semantic"
+  ],
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisinajar/less-plugin-semantic-theme/issues"
+  },
+  "homepage": "https://github.com/chrisinajar/less-plugin-semantic-theme#readme",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  }
+}
