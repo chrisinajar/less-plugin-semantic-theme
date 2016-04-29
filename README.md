@@ -21,7 +21,7 @@ gulp.task('less', function () {
     .pipe(sourcemaps.init())
     .pipe(less({
       plugins: [
-        CorrectTheme({ base: './css' }),
+        new CorrectTheme({ base: './css' }),
         new NpmImport()
       ]
     }))
