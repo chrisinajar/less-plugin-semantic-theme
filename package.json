@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-semantic-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Change the directory semantic ui looks for your theme.",
   "main": "index.js",
   "scripts": {
